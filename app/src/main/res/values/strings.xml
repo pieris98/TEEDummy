@@ -10,10 +10,14 @@
     <string name="error_incorrect_password">This password is incorrect</string>
     <string name="error_field_required">This field is required</string>
 
-    <string name="protected_confirm">Ok</string>
-    <string name="protected_cancel">Cancel</string>
-    <string name="subheader_text_protected">This confirmation provides an extra layer of security for the action you’re about to take.</string>>
-    <string name="header_text_protected">Android Protected Confirmation</string>
+
+    <string name="subheader_text_protected">.</string>>
+    <string name="header_text_protected">Android Protected UI Test App</string>
+    <string name="prompt_name">Enter your name</string>
+    <string name="prompt_amount">Enter the amount you want to send</string>
+    <string name="field_name">Name</string>
+    <string name="field_amount">Amount</string>
+    <string name="button_try">Try it out!</string>
 
 
     <string name="permission_rationale">"Contacts permissions are needed for providing email
